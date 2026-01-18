@@ -2,9 +2,9 @@
 replicaCount: 1
 
 image:
-  repository: 1pro/api-tester
+  repository: mygoaway/api-tester
   pullPolicy: Always
-  tag: 1.0.0
+  tag: "git-260119.081831"
 
 resources:
   limits:
